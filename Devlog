@@ -1,0 +1,23 @@
+Entry 25/5/2023 20:30:
+Started working on the game made my player walk :D tryng to add Jump now
+
+Entry 25/5/2023 20:38:
+Jumping added fixed double jump problem now working on first textures
+
+Entry 25/5/2023 20:43:
+Implemented Variable for jumping still no textures
+
+Entry 25/5/2023 20:46:
+Made lazy dirt and grass textures going to implement them now
+
+Entry 25/5/2023 21:31:
+Made a camerafollower so i can follow the player now :D
+
+Entry 25/5/2023 21:48:
+Added the most ugly spike texture in the world that i just made and
+adding a damage handler for the player xD realising i only got 42 min
+left and needing to sped up if i want to get anything done!
+
+Entry 25/5/2023 21:57:
+Added health system
+Added spike succesfully
